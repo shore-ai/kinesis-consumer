@@ -24,5 +24,6 @@ require (
 	github.com/yuin/gopher-lua v0.0.0-20200603152657-dc2b0ca8b37e // indirect
 	google.golang.org/protobuf v1.27.1 // indirect
 )
+replace github.com/harlow/kinesis-consumer => github.com/shore-ai/kinesis-consumer
 
 go 1.13
